@@ -1,2 +1,2 @@
 # HSPackCount
-A bot (Chatbot) counter packs to the Hearthstone game using node.js and Hubot.
+A extension for hubot (Chatbot) to counter packs to the Hearthstone game using node.js.
